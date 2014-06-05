@@ -1,0 +1,22 @@
+{
+  "author": "Sean Zellmer",
+  "name": "haxfred-irc-greeting",
+  "description": "Make Haxfred friendly.",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/haxiom/haxfred-irc-greeting"
+  },
+  "main": "./lib/haxfred-irc-greeting",
+  "keywords": [
+    "irc",
+    "haxfred"
+  ],
+  "bin": {
+  },
+  "dependencies": {
+    "haxfred-irc": ""
+  },
+  "engines": {
+    "node": "*"
+  }
+}
